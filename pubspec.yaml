@@ -1,0 +1,11 @@
+name: contact_form_server
+description: A simple web server with a contact form.
+version: 1.0.0
+
+environment:
+  sdk: '>=2.12.0 <3.0.0'
+
+dependencies:
+  shelf: ^1.1.0
+  shelf_static: ^1.0.0
+  mailer: ^6.0.0
